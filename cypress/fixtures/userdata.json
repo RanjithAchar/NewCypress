@@ -1,0 +1,98 @@
+[
+  {
+    "email": "co",
+    "password": "p"
+  },
+  {
+    "email": "  ",
+    "password": "  "
+  },
+  {
+    "email": "qa106@yopmail.com",
+    "password": "Admin@1235"
+  },
+  {
+    "email":"qa39@yopmail.comm",
+    "password":"Admin@1234"
+  },
+  {
+    "email": "qa106@yopmail.com",
+    "password": "Admin@12345"
+  },
+  {
+    "otp": "654320"
+  },
+  {
+    "otp1": "123456"
+  },
+  {
+    "phoneNumber":"  "
+  },
+  {
+    "phoneNumber1":"567656785"
+  },
+  {
+    "phoneNumber2":"6567656745"
+  },
+  {
+    "phoneNumber3":"6567656715" 
+  },
+  {
+    "emailAddress":"hello"
+  },
+  {
+    "emailAddress1":"qa106@yopmail.com"
+  },
+  { 
+    "emailAddress2":"qa105@yopmail.com"
+  },
+  {
+    "phoneNumber":"6567656735"
+  },
+  {
+    "phoneNumber":"6567656715"
+  },
+  {
+    "firstname":"Please",
+    "lastname":"Please"
+  },
+  {
+    "firstname":"  ",
+    "lastname":"  "
+  },
+  {
+    "firstname":"q",
+    "lastname":"q"
+  },
+  {
+    "firstname":"Kalyan",
+    "lastname":"Kumar qa"
+  },
+  {
+    "emailAddress":"helloqa39@yopmail.com"
+  },
+  {
+    "newPassword":"Hello",
+    "confirmPassword":"hel"
+  },
+  {
+    "newPassword":"!@#$%^&*$%^&",
+    "confirmPassword":"hel"
+  },
+  {
+    "newPassword":"!@#$%^&*$%^&66",
+    "confirmPassword":"hel"
+  },
+  {
+    "newPassword":"!@u#$%^&*$%^&66",
+    "confirmPassword":"hel"
+  },
+  {
+    "newPassword":"Admin@12345",
+    "confirmPassword":"Admin@12345"
+  },
+  {
+    "email": "qa105@yopmail.com",
+    "password": "Admin@123"
+  }
+]
